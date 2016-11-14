@@ -19,4 +19,13 @@ public class MyUI : MonoBehaviour {
 	public void Buttondownblue(){
 		body.color = Color.blue;
 	}
+	public void Buttondowngreen(){
+		body.color = Color.green;
+	}
+	public void Buttondownwhite(){
+		body.color = Color.white;
+	}
+	public void Buttondownblack(){
+		body.color = Color.black;
+	}
 }
